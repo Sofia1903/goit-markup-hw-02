@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif, 'Times New Roman', Times, serif;
+    color: #212121;
+}
+/* button */
+button:hover {
+  background-color: #2196F3;
+  color: white;
+  cursor: pointer;
+}
+/* links */
+a {
+    text-decoration: none;
+    color: #000;
+    width: 281px;
+    height: 16px;
+}
+a:focus, a:hover {
+    color: #2196F3;
+}
+.navigation {
+    color: black;
+}
+.contacts a {
+    color: #757575;
+}
+.contacts a:hover, 
+a:focus  {
+    color: #2196F3;
+}
+.webstudio {
+    font-family: 'Raleway';
+    font-size: 26px;
+}
+span {
+    color: #2196F3;
+}
+/* text */
+p {
+    color: #757575;
+}
+
