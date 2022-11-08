@@ -121,7 +121,7 @@ p {
     line-height: 1.1;
     color: var(--text-color);
 }
-.project-paragraph {
+.project-paragraphs {
     line-height: 1.8;
     color: var(--text-color);
 }
